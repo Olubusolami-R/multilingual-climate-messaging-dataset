@@ -24,10 +24,10 @@ This dataset is a multilingual parallel corpus of 715 climate-related public mes
 
 **Country of Origin:** Nigeria
 
-Authors: Olubusolami Sogunle, Habib Sani Yahaya, Chukwuma Oluebube Peace
+**Authors:** Olubusolami Sogunle, Habib Sani Yahaya, Chukwuma Oluebube Peace
 
-Affiliation: Research Round
+**Affiliation:** Research Round
 
-**Motivation**
+## Motivation
 
 The dataset was built to demonstrate how critical climate information can be made more accessible to non-English speakers in Nigeria. It also supports language technology development in low-resource African languages, offering a valuable resource for both practical and academic purposes. Through this dataset, we hope to set a precedent for the creation of similar datasets in other low-resourced Nigerian and African languages, promoting broader linguistic inclusivity in climate adaptation.
