@@ -1,4 +1,4 @@
-# Mulitlingual Climate Messaging Dataset (English, Hausa, Yoruba, Igbo)**
+# Multilingual Climate Messaging Dataset (English, Hausa, Yoruba, Igbo)**
 
 ## Description
 
