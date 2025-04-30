@@ -7,15 +7,25 @@ This dataset is a multilingual parallel corpus of 715 climate-related public mes
 ## Key Information
 
 **Languages:** English, Hausa, Yoruba, Igbo
+
 **Total Entries:** 715
+
 **Format:** CSV
+
 **Domains Covered:** Floods, Heatwaves, Waste Disposal, Air Pollution, General Climate Awareness
+
 **Intended Use:** NLP research (translation, clustering, multilingual embeddings), climate communication, dataset augmentation
+
 **Data Collection:** No scraping or personal data involved. All messages are fictional or generalised public communication types.
+
 **Ethical Notes:** The dataset does not contain personally identifiable information. No data was scraped or collected from private sources. Translations were done with a high consideration for linguistic and cultural sensitivity.
+
 **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International)
+
 **Country of Origin:** Nigeria
+
 Authors: Olubusolami Sogunle, Habib Sani Yahaya, Chukwuma Oluebube Peace
+
 Affiliation: Research Round
 
 **Motivation**
