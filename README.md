@@ -4,6 +4,8 @@
 
 This dataset is a multilingual parallel corpus of 715 climate-related public messages in English, Hausa, Yoruba, and Igbo. It was created to support inclusive climate communication and low-resource NLP research for African languages. The English messages were generated using AI-assisted, template-based prompts reflecting real-world scenarios such as flooding, heatwaves, and air pollution. Native speakers then translated each message into Hausa, Yoruba, and Igbo, ensuring cultural and linguistic accuracy. These translations were also reviewed by external language professionals for quality assurance.
 
+This dataset was developed as a project by the Computational Linguistics and Language fellows of the 2025 [Lune Two AI.Humanities.Social Sciences Research Fellowship](https://researchround.com/ai-humanities-and-social-sciences/) for graduate students in Nigeria, organised by Research Round.
+
 ## Key Information
 
 **Languages:** English, Hausa, Yoruba, Igbo
